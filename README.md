@@ -32,3 +32,5 @@ This repository contains foundational machine learning and deep learning noteboo
 ## Notes
 
 These notebooks are restored from the original `My_A.I_Projects` repository and grouped here as a focused basic ML/DL portfolio.
+
+See [ROADMAP.md](ROADMAP.md) for planned cleanup and portfolio improvements.
